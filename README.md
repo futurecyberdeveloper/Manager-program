@@ -1,2 +1,2 @@
-# Manager-program
-It's my first project using a dictionary
+# List My Python Program   
+It's my repository 
