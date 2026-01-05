@@ -1,3 +1,4 @@
+#logicforge
 🚀 Python Learning Playground
 
 This repository is a collection of all Python projects I’ve built while learning programming, covering various topics beyond just Object-Oriented Programming.
